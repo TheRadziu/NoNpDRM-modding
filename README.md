@@ -1,2 +1,3 @@
 # NoNpDRM-modding
-For a full tutorial how to mod retail and NoNpDRM games on 3.60 taihen/enso please visit Wiki Tab. New method for 3.60/3.65 enso coming soon.
+Despite the name this repository has, now modding can be also done on retail/purchased games too.  
+For a full tutorial how to mod games on 3.60 ENSO or 3.65 ENSO and more please visit [Wiki Tab](https://github.com/TheRadziu/NoNpDRM-modding/wiki). 
